@@ -17,7 +17,7 @@ class ChatWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("ChatBot")
+        self.setWindowTitle("TheAi")
         self.setGeometry(100, 100, 800, 500)
 
         self.central_widget = QSplitter(self)
