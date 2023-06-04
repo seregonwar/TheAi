@@ -47,12 +47,18 @@ TheAI Chatbot is a Python-based desktop application that lets you chat with an A
 <details>
 <summary>How to Use?</summary>
 
-1. Once the application is running, you can start chatting with the AI chatbot.
-2. Type your message in the input field and press Enter to send it.
-3. The chatbot will generate a response based on your input and display it in the chat window.
-4. You can also perform online searches by typing "[SEARCH]" followed by your query. The chatbot will provide search results for you.
-5. To change the theme of the application, click on the "Options" button and select either the "Light Theme" or "Dark Theme".
-6. To upload a file containing your message, click on the "Options" button and select "Upload File". The contents of the file will be sent to the chatbot for processing.
+
+   1. Once the application is running, you can start chatting with the AI chatbot.
+
+   2. Type your message in the input field and press Enter to send it.
+
+   3. The chatbot will generate a response based on your input and display it in the chat window.
+
+   4. You can also perform online searches by typing "[SEARCH]" followed by your query. The chatbot will provide search results for you.
+
+   5. To change the theme of the application, click on the "Options" button and select either the "Light Theme" or "Dark Theme".
+
+   6. To upload a file containing your message, click on the "Options" button and select "Upload File". The contents of the file will be sent to the chatbot for processing.
 
 </details>
 
